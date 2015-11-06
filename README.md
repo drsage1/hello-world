@@ -2,3 +2,5 @@
 Hello World Sample Project
 
 Just a sample project to learn how to use GitHub.
+
+Created by Dwight Sage.
